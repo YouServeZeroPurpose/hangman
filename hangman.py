@@ -99,4 +99,4 @@ class Hangman(QWidget):
 game = Hangman()
 game.show()
 
-app.exec_()
+app.exec()
